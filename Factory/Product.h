@@ -5,7 +5,7 @@ class Product
 {
 public:
     Product();
-    virtual ~Product();
+    virtual ~Product()=0;
 
 };
 
