@@ -6,7 +6,7 @@ using namespace std;
 
 ConcreteFacorty::ConcreteFacorty()
 {
-    cout << "This is Concrete Factory" << endl;
+    cout << "This is a Concrete Factory" << endl;
 }
 
 ConcreteFacorty::~ConcreteFacorty()
